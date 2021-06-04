@@ -1,0 +1,164 @@
+encounter,shark,Transmitter Serial,Transmitter,Tag type,Tag family,encounter_type,when_encountered,latitude,longitude,tag_location,capture_method,sex,disposition,tempo_boat_name,net,units,dorsal fin girth,fork length,inner clasper length,outer clasper length,pectoral fin girth,precaudal length,total natural,total stretch,total weight kg,tag_life
+34,2010-16,1096830,A69-1303-46863,Acoustic,V16-6x-069k-1,Commercial Fishing,2010-08-17,34.0285,-118.5443,Unknown,purse_seine,F,Live,Barbara H,Purse seine,cm,100,170,,,,151,200,,98,3033
+35,2010-17,1096829,A69-1303-46862,Acoustic,V16-6x-069k-1,Commercial Fishing,2010-08-18,34.0164,-118.5202,Unknown,purse_seine,F,Live,Barbara H,Purse seine,cm,75.5,146,,,,126,166,,37.2,3033
+36,2010-18,1096828,A69-1303-46861,Acoustic,V16-6x-069k-1,Commercial Fishing,2010-08-18,34.0187,-118.5197,Unknown,purse_seine,F,Live,Barbara H,Purse seine,cm,80.5,143.5,,,,127,155,,,3033
+37,2010-19,1096827,A69-1303-46860,Acoustic,V16-6x-069k-1,Commercial Fishing,2010-08-19,34.0295,-118.5788,Unknown,purse_seine,M,Live,Barbara H,Purse seine,cm,86,149.2,12,6,,132,162,,,3033
+15,2011-03,1104197,A69-1303-45044,Acoustic,V16-6x-069k-1,Commercial Fishing,2011-07-10,34.2517,-119.4022,Unknown,gillnet,F,Live,Aurelia ID# L17270,Unspecified Gillnet,cm,51,116,,,,101,128,132,14.1,3033
+17,2011-05,1104200,A69-1303-45047,Acoustic,V16-6x-069k-1,Commercial Fishing,2011-08-01,34.2317,-119.3392,Unknown,gillnet,F,Live,Jacquelyn ID# 33828,Unspecified Gillnet,cm,79,143,,,,125,157,165,40.9,3033
+199,2011-06,1104198,A69-1303-45045,Acoustic,V16-6x-069k-1,SharkLab Team,2011-10-25,,,Unknown,purse_seine,M,Live,,Purse seine,cm,64.5,130.5,,,,129,140.5,,23.6,3033
+2,2012-01,1096826,A69-1303-46859,Acoustic,V16-6x-069k-1,Commercial Fishing,2012-06-14,34.2057,-119.3229,Unknown,gillnet,F,Live,Jacquelyn ID# 33828,Set Gillnet,cm,71.5,135,,,73.5,119,146,156,30.8,3033
+4,2012-03,1104201,A69-1303-45048,Acoustic,V16-6x-069k-1,Commercial Fishing,2012-06-23,,,Unknown,gillnet,F,Live,Sandy Bea #54376,Unspecified Gillnet,cm,69.2,129,,,71,114,146,150,27.4,3033
+7,2012-07,1144529,A69-1601-30029,Acoustic,V16-6x-069k-1,Commercial Fishing,2012-08-16,33.991,-118.484,Unknown,purse_seine,M,Live,In Seine,Purse seine,cm,76,138,,,79,122,145,155.5,,3039
+8,2012-08,1144530,A69-1601-30030,Acoustic,V16-6x-069k-1,Commercial Fishing,2012-08-17,34.154,-119.232,Unknown,gillnet,M,Live,Sandy Bea #54376,Set Gillnet,cm,,129,11,5.5,,113,143,146,26.4,3039
+106,2013-01,1144528,A69-1601-30028,Acoustic,V16-6x-069k-1,Commercial Fishing,2013-08-28,33.9973,-118.527,Unknown,purse_seine,F,Live,In Seine,Purse seine,cm,74,142,,,76,126,159,161.5,36.35,3039
+107,2014-04,1198170,A69-1601-19099,Acoustic,V13-1x-069k-3,Other,2014-11-06,33.882561,-118.414091,Unknown,dart,U,Live,Lifeguard,Other,,,,,,,,,,,362
+108,2014-05,1198168,A69-1601-19097,Acoustic,V13-1x-069k-3,Other,2014-11-06,33.887518,-118.416898,Unknown,dart,U,Live,Lifeguard,Other,,,,,,,,,,,362
+109,2014-06,1198169,A69-1601-19098,Acoustic,V13-1x-069k-3,Other,2014-11-06,33.876502,-118.411591,Unknown,dart,U,Live,Lifeguard,Other,,,,,,,,,,,362
+110,2014-07,1104199,A69-1303-45046,Acoustic,V16-6x-069k-1,Commercial Fishing,2014-11-06,33.879816,-118.416479,Unknown,purse_seine,M,Live,In Seince,Purse seine,cm,93,179,6,8,,155,198,203,71.9,3033
+114,2015-01,1202720,A69-1601-21541,Acoustic,V13-1x-069k-3,Commercial Fishing,2015-03-20,34.2405,-119.266,Unknown,dart,U,Live,Ventura Harbor Patrol,Other,cm,,,,,,,,,,362
+115,2015-02,1202721,A69-1601-21542,Acoustic,V13-1x-069k-3,Commercial Fishing,2015-03-20,34.21533,-119.26191,Unknown,dart,U,Live,Ventura Harbor Patrol,Other,cm,,,,,,,,,,362
+116,2015-03,1202722,A69-1601-21543,Acoustic,V13-1x-069k-3,Commercial Fishing,2015-03-20,34.22048,-119.26405,Unknown,dart,U,Live,Ventura Harbor Patrol,Other,cm,,,,,,,,,,362
+117,2015-04,1213896,A69-1601-33119,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,152,,,362
+118,2015-05,1202725,A69-1601-21546,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,152,,,362
+119,2015-06,1213899,A69-1601-33122,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,152,,,362
+120,2015-07,1213897,A69-1601-33120,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,152,,,362
+121,2015-08,1213898,A69-1601-33121,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,152,,,362
+122,2015-09,1213901,A69-1601-33124,Acoustic,V13-1x-069k-3,Other,2015-05-22,33.705486,-118.060633,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,168,,,362
+123,2015-10,1104196,A69-1303-45043,Acoustic,V16-6x-069k-1,Commercial Fishing,2015-07-25,34.07209,-119.16602,Unknown,gillnet,M,Live,Bandy B.,Set Gillnet,cm,70,140,,,73.5,124,150,161.5,31.5,3033
+127,2015-11,1219526,A69-1601-36269,Acoustic,V13-1x-069k-3,Other,2015-08-05,33.727084,-118.085635,Unknown,dart,U,Live,Lifeguard jetski,Other,cm,,,,,,,152,,,362
+128,2015-12,1219528,A69-1601-36271,Acoustic,V13-1x-069k-3,Other,2015-08-05,33.727084,-118.085635,Unknown,dart,U,Live,Lifeguard jetski,Other,cm,,,,,,,152,,,362
+96,2015-14,1219529,A69-1601-36272,Acoustic,V13-1x-069k-3,Other,2015-08-05,33.727084,-118.085635,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,182,,,362
+129,2015-15,1219530,A69-1601-36273,Acoustic,V13-1x-069k-3,Other,2015-08-05,33.727084,-118.085635,Unknown,dart,U,Live,Lifeguard jetski,Other,cm,,,,,,,152,,,362
+131,2015-18,1222950,A69-1601-37952,Acoustic,V13-1x-069k-3,Other,2015-10-21,33.72641,-118.08593,Unknown,dart,U,Live,Lifeguard,Other,cm,,,,,,,182,,,653
+132,2015-19,1096832,A69-1303-46865,Acoustic,V16-6x-069k-1,Commercial Fishing,2015-12-16,34.3125,-119.49833,Unknown,gillnet,F,Live,Sundowner,Set Gillnet,cm,87,140,,,88.5,129,160,164,53.25,3033
+124,2015-1MX,1128091,A69-9001-29673,Acoustic,V16-6x-069k-2,Mexico Team,2015-06-26,28.21393,-114.21166,Unknown,gillnet,M,Live,,Set Gillnet,cm,,,,,,,161,,,3576
+125,2015-2MX,1128090,A69-9001-29672,Acoustic,V16-6x-069k-2,Mexico Team,2015-07-12,28.01283,-114.25043,Unknown,gillnet,F,Live,,Set Gillnet,cm,,,,,,,182,,,3576
+126,2015-3MX,1128092,A69-9001-29674,Acoustic,V16-6x-069k-2,Mexico Team,2015-07-12,28.01283,-114.25043,Unknown,gillnet,F,Live,,Set Gillnet,cm,,,,,,,152,,,3576
+140,2016-03,1226318,,Acoustic,,Commercial Fishing,2016-09-01,34.405,-119.58166,Unknown,dart,M,Live,NOAA thresher survey,Hook and Line,cm,,145,,,,,,,,
+136,2016-1MX,1195915,A69-9001-24390,Acoustic,V16-6x-069k-2,Mexico Team,2016-07-15,27.86666,-114.40796,Unknown,gillnet,F,Live,,Other,cm,,146,,,,133,166,,,3650
+137,2016-2MX,1195912,A69-9001-24387,Acoustic,V16-6x-069k-2,Mexico Team,2016-07-15,27.86708,-114.40843,Unknown,gillnet,F,Live,,Other,cm,,174,,,,156,193,,,3650
+138,2016-3MX,1195913,A69-9001-24388,Acoustic,V16-6x-069k-2,Mexico Team,2016-07-15,27.92738,-114.35183,Unknown,gillnet,M,Live,,Other,cm,,127,,,,112,138,,,3650
+139,2016-4MX,1143396,A69-9001-28545,Acoustic,V16-6x-069k-2,Mexico Team,2016-07-16,27.87511,-114.39165,Unknown,gillnet,F,Live,,Other,cm,,175,,,,157,190,,,3576
+163,2016-5MX,1195911,A69-9001-24386,Acoustic,V16-6x-069k-2,Mexico Team,2016-07-31,27.87108,-114.40695,Unknown,gillnet,M,Live,,Set Gillnet,cm,,131,,,,116,142,,,3650
+141,2017-01,1219516,A69-1601-57523,Acoustic,V16-6x-069k-2,Other,2017-04-22,33.318807,-117.865563,Unknown,dart,F,Live,,Other,,,,,,,,,,,1825
+142,2017-02,1222951,A69-1601-37953,Acoustic,V13-1x-069k-3,SharkLab Team,2017-05-02,33.748728,-118.128139,Unknown,dart,U,Live,,Other,cm,,,,,,,152,,,653
+143,2017-03,1222957,A69-1601-37959,Acoustic,V13-1x-069k-3,SharkLab Team,2017-05-02,33.748728,-118.128139,Unknown,dart,U,Live,,Other,cm,,,,,,,182,,,653
+144,2017-04,1222966,A69-1601-37968,Acoustic,V13-1x-069k-3,SharkLab Team,2017-05-02,33.748728,-118.128139,Unknown,dart,U,Live,,Other,cm,,,,,,,152,,,653
+145,2017-05,1222952,A69-1601-37954,Acoustic,V13-1x-069k-3,Commercial Fishing,2017-05-05,33.44939,-117.666506,Unknown,dart,U,Live,Jet ski,Other,cm,,,,,,,182,,,653
+146,2017-06,1222954,A69-1601-37956,Acoustic,V13-1x-069k-3,Commercial Fishing,2017-05-05,33.44939,-117.666506,Unknown,dart,U,Live,jet ski,Other,cm,,,,,,,213,,,653
+147,2017-07,1222953,A69-1601-37955,Acoustic,V13-1x-069k-3,Commercial Fishing,2017-05-05,33.44939,-117.666506,Unknown,dart,U,Live,jet ski,Other,cm,,,,,,,213,,,653
+148,2017-08,1104202,A69-1303-45049,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-05-10,33.745119,-118.11974,Unknown,strikenet,F,Live,DR Nelson,Set Gillnet,cm,91,162,,,,153,182,186,53.5,3033
+149,2017-09,1144531,A69-1601-30031,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-05-17,33.746748,118.128611,Unknown,strikenet,F,Live,Parker,Set Gillnet,cm,92,162.5,,,,147,176,189,73,3039
+151,2017-10,1222955,A69-1601-37957,Acoustic,V13-1x-069k-3,Other,2017-05-24,33.447879,-117.658559,Unknown,dart,U,Live,Orange County Lifeguard Jetski,Other,cm,,,,,,,182,,,653
+150,2017-11,1213906,A69-9001-22255,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-05-25,33.448647,-118.075981,Unknown,strikenet,F,Live,CSULB Whaler,Set Gillnet,cm,93,163,,,,146,186,191,61.7,3650
+152,2017-12,1222949,A69-1601-37951,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-02,33.440079,-117.647624,Unknown,dart,U,Live,,Other,cm,,,,,,,245,,,653
+153,2017-13,1222964,A69-1601-37966,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-02,33.439678,-117.645967,Unknown,dart,U,Live,,Other,cm,,,,,,,275,,,653
+154,2017-14,1222958,A69-1601-37960,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-02,33.445263,-117.653858,Unknown,dart,U,Live,,Other,cm,,,,,,,275,,,653
+155,2017-15,1222965,A69-1601-37967,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-02,33.444762,-117.653858,Unknown,dart,U,Live,,Other,cm,,,,,,,275,,,653
+156,2017-16,1222962,A69-1601-37964,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-02,33.456806,-117.674726,Unknown,dart,U,Live,,Other,cm,,,,,,,182,,,653
+157,2017-17,1270636,A69-1602-1355,Acoustic,V13-1x-069k-3,Other,2017-06-13,33.452736,-117.667074,Unknown,dart,U,Live,Dana Point Lifeguards,Other,cm,,,,,,,213,,,653
+158,2017-18,1222956,A69-1601-37958,Acoustic,V13-1x-069k-3,SharkLab Team,2017-06-13,33.45273,-117.667074,Unknown,dart,U,Live,,Other,cm,,,,,,,243,,,653
+159,2017-19,1213902,A69-9001-22251,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-06-17,34.19044,-119.3133,Unknown,gillnet,M,Live,Phillip Nick,Set Gillnet,cm,67,133.5,,,68,119,149,153,28.3,3650
+164,2017-1MX,1128094,A69-9001-29676,Acoustic,V16-6x-069k-2,Mexico Team,2017-06-20,27.8671,-114.38883,Unknown,gillnet,F,Live,,Set Gillnet,cm,,128,,,,119,148,,,3576
+160,2017-20,1213907,A69-9001-22256,Acoustic,V16-6x-069k-1,Other,2017-06-22,34.1979,-119.321,Unknown,gillnet,F,Live,,Set Gillnet,cm,70.5,132,,,71.8,117,144,152,28.3,3650
+161,2017-21,1213903,A69-9001-22252,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-07-27,,,Unknown,gillnet,F,Live,Philip Nick,Unspecified Gillnet,cm,67,132.3,,,68,117.2,147,153.3,34,3650
+162,2017-22,1213904,A69-9001-22253,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-08-12,34.184967,-119.325817,Unknown,gillnet,F,Live,Phillip Nick,Set Gillnet,cm,59,117,,,,104,131.5,136,23.15,3650
+168,2017-23,1270635,A69-1602-1354,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-16,33.455367,-117.67492,Unknown,dart,U,Live,,Other,cm,,,,,,,213,,,653
+169,2017-24,1222961,A69-1601-37963,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.413,-119.56195,Unknown,dart,U,Live,,Other,cm,,,,,,,274,,,653
+170,2017-25,1222960,A69-1601-37962,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.41359,-119.56083,Unknown,dart,F,Live,,Other,cm,,,,,,,304,,,653
+171,2017-26,1270634,A69-1602-1353,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.41295,-119.55989,Unknown,dart,U,Live,,Other,cm,,,,,,,304,,,653
+172,2017-27,1270632,A69-1602-1351,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.41151,-119.5583,Unknown,dart,U,Live,,Other,cm,,,,,,,304,,,653
+173,2017-28,1270633,A69-1602-1352,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.41136,-119.5584,Unknown,dart,U,Live,,Other,cm,,,,,,,304,,,653
+174,2017-29,1274018,A69-1602-2228,Acoustic,V13-1x-069k-3,SharkLab Team,2017-08-24,34.41322,-119.56049,Unknown,dart,U,Live,,Other,cm,,,,,,,274,,,653
+165,2017-2MX,1195909,A69-9001-24384,Acoustic,V16-6x-069k-2,Mexico Team,2017-06-20,27.86618,-114.3887,Unknown,gillnet,M,Live,,Set Gillnet,cm,,138,,,,125,152,,,3650
+175,2017-30,1213905,A69-9001-22254,Acoustic,V16-6x-069k-1,Commercial Fishing,2017-11-22,34.21393,-119.3727,Unknown,gillnet,F,Live,Gone Madd,Set Gillnet,cm,87,154,,,,138,168,172,49.85,3650
+166,2017-3MX,1195914,A69-9001-24389,Acoustic,V16-6x-069k-2,Mexico Team,2017-06-20,27.86565,-114.3886,Unknown,gillnet,M,Live,,Set Gillnet,cm,,141,,,,127,153,,,3650
+167,2017-4MX,1195906,A69-9001-24381,Acoustic,V16-6x-069k-2,Mexico Team,2017-06-20,27.85325,-114.36671,Unknown,gillnet,F,Live,,Set Gillnet,cm,,130,,,,117,149,,,3650
+195,2017-5MX,1195907,A69-9001-24382,Acoustic,V16-6x-069k-2,Mexico Team,2017-06-20,27.91273,-114.34653,Unknown,gillnet,M,Live,,Set Gillnet,cm,,162,,,,134,176,,,3650
+177,2018-01,1276581,A69-1602-3234,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-02-04,34.414214,-119.567053,Unknown,dart,U,Live,Reef Guardian I,Other,cm,,,,,,,213,,,653
+179,2018-03,1276576,A69-1602-3229,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-04-15,34.41,-119.556,Unknown,dart,U,Live,Phyllis Anne,Other,cm,,,,,,,167,,,653
+180,2018-04,1276580,A69-1602-3233,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-04-15,34.409333,-119.555333,Unknown,dart,U,Live,Phyllis Anne,Other,cm,,,,,,,150,,,653
+181,2018-05,1276577,A69-1602-3230,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-04-15,34.414803,-119.563216,Unknown,dart,U,Live,Reef Guardian,Other,cm,,,,,,,225,,,653
+182,2018-06,1276583,A69-1602-3236,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-04-15,34.411667,-119.559167,Unknown,dart,U,Live,Phyllis Anne,Other,cm,,,,,,,210,,,653
+183,2018-07,1276578,A69-1602-3231,Acoustic,V13-1x-069k-3,Commercial Fishing,2018-04-15,34.4115,-119.559167,Unknown,dart,U,Live,Phyllis Anne,Other,cm,,,,,,,175,,,653
+184,2018-08,1272173,A69-9001-13502,Acoustic,V16-6x-069k-1,Commercial Fishing,2018-07-13,,,Unknown,gillnet,M,Live,Philip Nick,Set Gillnet,cm,62.5,128,11.2,5,66,113.5,143,144,23.15,3650
+185,2018-09,1247203,A69-9001-17757,Acoustic,V16-6x-069k-1,Commercial Fishing,2018-08-04,,,Unknown,gillnet,M,Live,Philip Nick,Set Gillnet,cm,68,127,10,4.5,68.5,112,135,145,26.8,3650
+186,2018-10,1272175,A69-9001-13504,Acoustic,V16-6x-069k-1,Commercial Fishing,2018-08-10,,,Unknown,gillnet,F,Live,Philip Nick,Set Gillnet,cm,54.5,122,,,,109,139.5,140,21.9,3650
+187,2018-11,1213908,A69-9001-22257,Acoustic,V16-6x-069k-1,Commercial Fishing,2018-08-21,34.2183,-119.37,Unknown,gillnet,F,Live,Sundowner,Set Gillnet,cm,75,146,,,74.5,129,160,164,40,3650
+188,2018-12,1272172,A69-9001-13501,Acoustic,V16-6x-069k-1,Other,2018-08-29,34.122052,-119.28785,Oxnard,gillnet,M,Live,,Set Gillnet,cm,84,150,11,4.8,85.5,132,160,169.6,44.85,3650
+189,2018-13,1301908,A69-9001-8567,Acoustic,V16-4x-069k-2,SharkLab Team,2018-09-24,31.290701,-117.547855,Unknown,dart,F,Live,,Other,cm,,,,,,,325,,,2088
+190,2018-14,1219517,A69-1601-57524,Acoustic,V16-6x-069k-2,Commercial Fishing,2018-11-15,35.210561,-120.858551,Unknown,dart,M,Live,Tenera,Other,cm,,,,,,,350,,,1825
+191,2018-15,1219515,A69-1601-57522,Acoustic,V16-6x-069k-2,Commercial Fishing,2018-11-15,35.210561,-120.858551,Unknown,dart,U,Live,Tenera,Other,cm,,,,,,,228,,,1825
+193,2018-17,1301905,A69-9001-8564,Acoustic,V16-4x-069k-2,Commercial Fishing,2018-12-03,35.2091,-120.8668,Unknown,dart,U,Live,Tenera,Other,cm,,,,,,,230,,,2088
+194,2019-01,1272168,A69-9001-13497,Acoustic,V16-6x-069k-1,Commercial Fishing,2019-01-30,34.15137,-119.232,Oxnard,gillnet,M,Live,Sandy Bea,Set Gillnet,cm,82.5,152,12.5,5.5,90,134,166,172,49.6,3650
+,2019-03,1301905,A69-9001-8545,Acoustic,V16-6x-069k-1,,2019-07-21,34.24623,-119.28646,Ventura,gillnet,M,,,,,,,,,,,142,,,2088
+,2019-05,1272168,A69-1602-8665,Acoustic,V13-1x-069k-3,,2019-08-04,34.413999,-119.67532,SantaBarbara,dart,F,,,,,,,,,,,321,,,3033
+,2019-07,1301921,A69-1602-8676,Acoustic,V13-1x-069k-3,,2019-08-26,32.996125,-117.277415,SolanaBeach,dart,U,,,,,,,,,,,152,,,3650
+,2019-08,1295003,A69-9001-13498,Acoustic,V16-6x-069k-1,,2019-09-03,34.405749,-119.681929,SantaBarbara,gillnet,F,,,,,,,,,,,154,,,602
+,2019-09,1295014,A69-9001-8568,Acoustic,V16-4x-069k-2,,2019-09-25,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,304.8,,,602
+,2019-10,1272169,A69-1303-46139,Acoustic,V16-5x-069k-2,,2019-09-25,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,274.3,,,3650
+,2019-13,1301909,A69-9001-8565,Acoustic,V16-4x-069k-2,,2019-10-07,35.20901,-120.86189,Diablo Canyon,dart,U,,,,,,,,,,,289.56,,,2088
+,2019-14,1100361,A69-9001-8566,Acoustic,V16-4x-069k-2,,2019-10-07,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,274.32,,,899
+,2019-16,1301906,A69-1303-46866,Acoustic,V16-6x-069k-1,,2019-10-07,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,213.36,,,2088
+,2019-17,1301907,A69-1602-8662,Acoustic,V13-1x-069k-3,,2019-10-07,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,213.36,,,2088
+,2019-18,1096833,A69-9001-13500,Acoustic,V16-6x-069k-1,,2019-10-08,34.405749,-119.681929,SantaBarbara,gillnet,M,,,,,,,,,,,234,,,899
+,2019-1MX,1301920,A69-9001-20500,Acoustic,,,2019-06-14,27.86618,-114.3887,Vizcaino,gillnet,M,,,,,,,,,,,161,,,2088
+,2019-20,1228333,A69-9001-8563,Acoustic,V16-4x-069k-2,,2019-10-25,34.404,-119.5475,SantaBarbara,dart,U,,,,,,,,,,,295,,,3047
+,2019-21,1301904,A69-9001-8571,Acoustic,V16-4x-069k-2,,2019-11-05,34.404,-119.5475,SantaBarbara,dart,U,,,,,,,,,,,272,,,2088
+,2019-2MX,1301912,A69-9001-14645,Acoustic,,,2019-07-25,27.86565,-114.3886,Vizcaino,gillnet,F,,,,,,,,,,,191,,,2089
+,2019-4MX,1195908,A69-9001-24283,Acoustic,,,2019-07-27,27.91273,-114.34653,Vizcaino,gillnet,M,,,,,,,,,,,202,,,3050
+,2020-01,1301910,A69-9001-8569,Acoustic,V16-4x-069k-2,,2020-01-15,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,305,,,2088
+,2020-02,1301911,A69-9001-8577,Acoustic,V16-4x-069k-2,,2020-01-15,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,259,,,2088
+,2020-03,1301912,A69-9001-8575,Acoustic,V16-4x-069k-2,,2020-01-15,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,259,,,2088
+,2020-04,1301913,A69-9001-4985,Acoustic,V16-6x-069k-2,,2020-01-15,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,366,,,2088
+,2020-05,1334217,A69-9001-4987,Acoustic,V16-6x-069k-2,,2020-02-20,35.20901,-120.86189,Diablo Canyon,dart,F,,,,,,,,,,,305,,,3657
+,2020-08,1301916,A69-9001-8576,Acoustic,V16-4x-069k-2,,2020-02-20,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,240,,,2088
+,2020-09,1301917,A69-9001-4986,Acoustic,V16-6x-069k-2,,2020-02-20,35.20901,-120.86189,Diablo Canyon,dart,M,,,,,,,,,,,305,,,2088
+,2020-10,1301918,A69-1602-8660,Acoustic,V13-1x-069k-3,,2020-04-03,34.404,-119.5475,SantaBarbara,dart,U,,,,,,,,,,,183,,,2088
+,2020-11,1294998,A69-9001-4325,Acoustic,V16-4x-069k-2,,2020-04-03,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,197,,,602
+,2020-12,1342046,A69-9001-4324,Acoustic,V16-4x-069k-2,,2020-04-26,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,230,,,1460
+,2020-13,1342045,A69-1602-8664,Acoustic,V13-1x-069k-3,,2020-04-26,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,152,,,1460
+,2020-14,1295002,A69-1602-8670,Acoustic,V13-1x-069k-3,,2020-04-26,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,159,,,602
+,2020-15,1295006,A69-9001-4326,Acoustic,V16-4x-069k-2,,2020-04-26,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,217,,,602
+,2020-16,1342047,A69-9001-4328,Acoustic,V16-4x-069k-2,,2020-04-26,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,315,,,1460
+,2020-17,1342051,A69-9001-4330,Acoustic,V16-4x-069k-2,,2020-05-06,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,259,,,1460
+,2020-18,1342053,A69-9001-4332,Acoustic,V16-4x-069k-2,,2020-05-06,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,229,,,1460
+,2020-19,1342089,A69-9006-7851,Acoustic,V13P-1x-069k-3-0034m,,2020-05-21,34.404,-119.5475,SantaBarbara,dart,M,,,,,,,,,,,155,,,237
+,2020-20,1342091,A69-9006-7853,Acoustic,V13P-1x-069k-3-0034m,,2020-05-21,34.404,-119.5475,SantaBarbara,dart,M,,,,,,,,,,,155,,,237
+,2020-21,1342087,A69-9006-7849,Acoustic,V13P-1x-069k-3-0034m,,2020-05-21,34.404,-119.5475,SantaBarbara,dart,U,,,,,,,,,,,183,,,237
+,2020-22,1342052,A69-9001-4331,Acoustic,V16-4x-069k-2,,2020-05-21,34.404,-119.5475,SantaBarbara,dart,F,,,,,,,,,,,259,,,1460
+,2020-24,1326976,A69-9001-6118,Acoustic,V16-6x,,2020-06-17,34.149991,-119.234705,Oxnard,gillnet,M,,,,,,,,,,,153,,,3650
+,2020-25,1326973,A69-9001-6115,Acoustic,V16-6x,,2020-06-24,34.242519,-119.28126,Ventura,gillnet,F,,,,,,,,,,,138,,,3650
+,2020-26,1342080,A69-9001-4319,Acoustic,V16-6x-069k-1,,2020-06-29,34.1505658,-119.2356498,Oxnard,gillnet,F,,,,,,,,,,,161,,,3650
+,2020-27,1342069,A69-9001-4308,Acoustic,V16-6x-069k-1,,2020-06-30,34.1522276,-119.2354184,Oxnard,gillnet,F,,,,,,,,,,,139.5,,,3650
+,2020-28,1326978,A69-9001-6120,Acoustic,V16-6x,,2020-06-30,34.1522276,-119.2354184,Oxnard,gillnet,F,,,,,,,,,,,149,,,3650
+,2020-29,1295004,A69-1602-8666,Acoustic,V13-1x-069k-3,,2020-07-01,32.962613,-117.268841,Del Mar,dart,U,,,,,,,,,,,227,,,602
+,2020-30,1342068,A69-9001-4307,Acoustic,V16-6x-069k-1,,2020-07-01,34.1519,-119.2332,Oxnard,gillnet,F,,,,,,,,,,,135,,,3650
+,2020-31,1342090,A69-9006-7852,Acoustic,V13P-1x-069k-3-0034m,,2020-07-15,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,243,,,237
+,2020-32,1342088,A69-9006-7850,Acoustic,V13P-1x-069k-3-0034m,,2020-07-16,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,243,,,237
+,2020-33,1342092,A69-9006-7854,Acoustic,V13P-1x-069k-3-0034m,,2020-07-31,34.397899,-119.539882,SantaBarbara,dart,U,,,,,,,,,,,183,,,237
+,2020-34,1276584,A69-1602-3237,Acoustic,V13-1x-069k-3,,2020-07-31,34.397899,-119.539882,SantaBarbara,dart,U,,,,,,,,,,,239,,,653
+,2020-35,1295007,A69-1602-8669,Acoustic,V13-1x-069k-3,,2020-07-31,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,183,,,602
+,2020-35,1295006,A69-1602-8668,Acoustic,V13-1x-069k-3,,2020-09-02,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,183,,,602
+,2020-36,1294997,A69-1602-8659,Acoustic,V13-1x-069k-3,,2020-07-31,34.397899,-119.539882,SantaBarbara,dart,U,,,,,,,,,,,183,,,602
+,2020-37,1342056,A69-9001-4335,Acoustic,V16-4x-069k-2,,2020-08-13,32.967387,-117.270164,Del Mar,dart,U,,,,,,,,,,,214,,,1460
+,2020-38,1295015,A69-1602-8677,Acoustic,V13-1x-069k-3,,2020-08-13,32.972479,-117.270785,Del Mar,dart,U,,,,,,,,,,,199,,,602
+,2020-39,1295005,A69-1602-8667,Acoustic,V13-1x-069k-3,,2020-08-13,32.979725,-117.274549,Del Mar,dart,U,,,,,,,,,,,187,,,602
+,2020-40,1342057,A69-9001-4336,Acoustic,V16-4x-069k-2,,2020-08-25,34.401352,-119.551955,SantaBarbara,dart,U,,,,,,,,,,,244,,,1460
+,2020-41,1294996,A69-1602-8658,Acoustic,V13-1x-069k-4,,2020-09-02,34.397899,-119.539882,SantaBarbara,dart,U,,,,,,,,,,,198,,,602
+,2020-42,1295010,A69-1602-8672,Acoustic,V13-1x-069k-3,,2020-09-03,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,230,,,602
+,2020-43,1295009,A69-1602-8671 ,Acoustic,V13-1x-069k-3,,2020-09-04,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,259,,,602
+,2020-44,1276575,A69-1602-3228,Acoustic,V13-1x-069k-3,,2020-09-04,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,243,,,653
+,2020-45,1342063,A69-9001-4342,Acoustic,V16-4x-069k-2,,2020-09-04,34.397899,-119.539882,SantaBarbara,dart,F,,,,,,,,,,,305,,,1460
+,2020-46,1342048,A69-9001-4327 ,Acoustic,V16-4x-069k-2,,2020-09-18,32.967387,-117.270164,Del Mar,dart,M,,,,,,,,,,,182,,,1460
+,2020-47,1276579,A69-1602-3232,Acoustic,V13-1x-069k-3,,2020-10-08,32.934912,-117.261828,Torrey Pines,dart,U,,,,,,,,,,,182,,,653
+,2020-48,1342070,A69-9001-4309,Acoustic,V16-6x-069k-1,,2020-11-02,34.16272,-119.24327,Oxnard,gillnet,M,,,,,,,,,,,163,,,3650
+,2020-49,1362744,A69-1602-41954,Acoustic,V13-1x-BLU-3,,2020-11-03,32.960058,-117.271717,Del Mar,dart,F,,,,,,,,,,,228,,,342
+,2020-50,1362743,A69-1602-41953,Acoustic,V13-1x-BLU-3,,2020-11-04,32.967387,-117.270164,Del Mar,dart,F,,,,,,,,,,,213,,,342
+,2020-51,1362746,A69-1602-41956,Acoustic,V13-1x-BLU-3,,2020-11-17,32.9526,-117.2701,Del Mar,dart,F,,,,,,,,,,,198,,,342
+,2020-52,1362747,A69-1602-41957,Acoustic,V13-1x-BLU-3,,2020-11-18,32.6789,-117.185,Coronado,dart,F,,,,,,,,,,,204,,,342
+,2020-53,1342054,A69-9001-4333,Acoustic,V16-4x-069k-2,,2020-12-02,32.68273,-117.189,Coronado,dart,F,,,,,,,,,,,227,,,1460
+,2020-54,1342058,A69-9001-4337,Acoustic,V16-4x-069k-3,,2020-12-02,32.68273,-117.189,Coronado,dart,F,,,,,,,,,,,246,,,1460
+,2020-55,1362745,A69-1602-41955,Acoustic,V13-1x-BLU-5,,2020-12-02,32.68273,-117.189,Coronado,dart,F,,,,,,,,,,,234,,,342
+,2020-56,1342059,A69-9001-4338,Acoustic,V16-4x-069k-3,,2020-12-16,32.675721,-117.177563,Coronado,dart,F,,,,,,,,,,,215,,,1460
+,2021-01,,,,,,,,,,,,,,,,,,,,,,,,,
