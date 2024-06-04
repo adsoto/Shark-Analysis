@@ -1,56 +1,56 @@
 long_name_value,short_name,URM_binary,year,percent_total_enrollment,total_enrollment_approx
-Percent of total enrollment that are American Indian or Alaska Native (DRVEF2022),indigenous,1,2022,1,0
-Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2022),aapi,1,2022,13,0
-Percent of total enrollment that are Asian (DRVEF2022),asian,0,2022,12,0
-Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2022),hawaii_pi,1,2022,1,0
-Percent of total enrollment that are Black or African American (DRVEF2022),black,1,2022,9,0
-Percent of total enrollment that are Hispanic/Latino (DRVEF2022),latino,1,2022,21,0
-Percent of total enrollment that are White (DRVEF2022),white,0,2022,30,0
-Percent of total enrollment that are Race/ethnicity unknown (DRVEF2022),unk,NULL,2022,6,0
-Percent of total enrollment that are U.S. Nonresident (DRVEF2022),non_res,NULL,2022,19,0
-Percent of total enrollment that are two or more races (DRVEF2022),two_more,1,2022,1,0
-Percent of total enrollment that are women (DRVEF2022),women,NULL,2022,60,0
-Percent of total enrollment that are American Indian or Alaska Native (DRVEF2021),indigenous,1,2021,1,0
-Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2021),aapi,1,2021,12,0
-Percent of total enrollment that are Asian (DRVEF2021),asian,0,2021,12,0
-Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2021),hawaii_pi,1,2021,1,0
-Percent of total enrollment that are Black or African American (DRVEF2021),black,1,2021,8,0
-Percent of total enrollment that are Hispanic/Latino (DRVEF2021),latino,1,2021,20,0
-Percent of total enrollment that are White (DRVEF2021),white,0,2021,31,0
-Percent of total enrollment that are Race/ethnicity unknown (DRVEF2021),unk,NULL,2021,8,0
-Percent of total enrollment that are Nonresident Alien (DRVEF2021),non_res,NULL,2021,19,0
-Percent of total enrollment that are two or more races (DRVEF2021),two_more,1,2021,2,0
-Percent of total enrollment that are women (DRVEF2021),women,NULL,2021,59,0
-Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020),indigenous,1,2020,1,0
-Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2020),aapi,1,2020,11,0
-Percent of total enrollment that are Asian (DRVEF2020),asian,0,2020,10,0
-Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2020),hawaii_pi,1,2020,1,0
-Percent of total enrollment that are Black or African American (DRVEF2020),black,1,2020,8,0
-Percent of total enrollment that are Hispanic/Latino (DRVEF2020),latino,1,2020,18,0
-Percent of total enrollment that are White (DRVEF2020),white,0,2020,31,0
-Percent of total enrollment that are Race/ethnicity unknown (DRVEF2020),unk,NULL,2020,8,0
-Percent of total enrollment that are Nonresident Alien (DRVEF2020),non_res,NULL,2020,21,0
-Percent of total enrollment that are two or more races (DRVEF2020),two_more,1,2020,2,0
-Percent of total enrollment that are women (DRVEF2020),women,NULL,2020,58,0
-Percent of total enrollment that are American Indian or Alaska Native (DRVEF2019),indigenous,1,2019,1,0
-Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2019),aapi,1,2019,11,0
-Percent of total enrollment that are Asian (DRVEF2019),asian,0,2019,11,0
-Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2019),hawaii_pi,1,2019,1,0
-Percent of total enrollment that are Black or African American (DRVEF2019),black,1,2019,7,0
-Percent of total enrollment that are Hispanic/Latino (DRVEF2019),latino,1,2019,16,0
-Percent of total enrollment that are White (DRVEF2019),white,0,2019,32,0
-Percent of total enrollment that are Race/ethnicity unknown (DRVEF2019),unk,NULL,2019,9,0
-Percent of total enrollment that are Nonresident Alien (DRVEF2019),non_res,NULL,2019,21,0
-Percent of total enrollment that are two or more races (DRVEF2019),two_more,1,2019,3,0
-Percent of total enrollment that are women (DRVEF2019),women,NULL,2019,58,0
-Percent of total enrollment that are American Indian or Alaska Native (DRVEF2018),indigenous,1,2018,1,0
-Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2018),aapi,1,2018,10,0
-Percent of total enrollment that are Asian (DRVEF2018),asian,0,2018,9,0
-Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2018),hawaii_pi,1,2018,1,0
-Percent of total enrollment that are Black or African American (DRVEF2018),black,1,2018,7,0
-Percent of total enrollment that are Hispanic/Latino (DRVEF2018),latino,1,2018,14,0
-Percent of total enrollment that are White (DRVEF2018),white,0,2018,34,0
-Percent of total enrollment that are Race/ethnicity unknown (DRVEF2018),unk,NULL,2018,9,0
-Percent of total enrollment that are Nonresident Alien (DRVEF2018),non_res,NULL,2018,21,0
-Percent of total enrollment that are two or more races (DRVEF2018),two_more,1,2018,3,0
-Percent of total enrollment that are women (DRVEF2018),women,NULL,2018,57,0
+Percent of total enrollment that are American Indian or Alaska Native (DRVEF2022),indigenous,1,2022,1,19
+Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2022),aapi,1,2022,13,247
+Percent of total enrollment that are Asian (DRVEF2022),asian,0,2022,12,228
+Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2022),hawaii_pi,1,2022,1,19
+Percent of total enrollment that are Black or African American (DRVEF2022),black,1,2022,9,171
+Percent of total enrollment that are Hispanic/Latino (DRVEF2022),latino,1,2022,21,400
+Percent of total enrollment that are White (DRVEF2022),white,0,2022,30,571
+Percent of total enrollment that are Race/ethnicity unknown (DRVEF2022),unk,NULL,2022,6,114
+Percent of total enrollment that are U.S. Nonresident (DRVEF2022),non_res,NULL,2022,19,362
+Percent of total enrollment that are two or more races (DRVEF2022),two_more,1,2022,1,19
+Percent of total enrollment that are women (DRVEF2022),women,NULL,2022,60,1142
+Percent of total enrollment that are American Indian or Alaska Native (DRVEF2021),indigenous,1,2021,1,20
+Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2021),aapi,1,2021,12,234
+Percent of total enrollment that are Asian (DRVEF2021),asian,0,2021,12,234
+Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2021),hawaii_pi,1,2021,1,20
+Percent of total enrollment that are Black or African American (DRVEF2021),black,1,2021,8,156
+Percent of total enrollment that are Hispanic/Latino (DRVEF2021),latino,1,2021,20,391
+Percent of total enrollment that are White (DRVEF2021),white,0,2021,31,605
+Percent of total enrollment that are Race/ethnicity unknown (DRVEF2021),unk,NULL,2021,8,156
+Percent of total enrollment that are Nonresident Alien (DRVEF2021),non_res,NULL,2021,19,371
+Percent of total enrollment that are two or more races (DRVEF2021),two_more,1,2021,2,39
+Percent of total enrollment that are women (DRVEF2021),women,NULL,2021,59,1152
+Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020),indigenous,1,2020,1,19
+Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2020),aapi,1,2020,11,214
+Percent of total enrollment that are Asian (DRVEF2020),asian,0,2020,10,195
+Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2020),hawaii_pi,1,2020,1,19
+Percent of total enrollment that are Black or African American (DRVEF2020),black,1,2020,8,156
+Percent of total enrollment that are Hispanic/Latino (DRVEF2020),latino,1,2020,18,351
+Percent of total enrollment that are White (DRVEF2020),white,0,2020,31,604
+Percent of total enrollment that are Race/ethnicity unknown (DRVEF2020),unk,NULL,2020,8,156
+Percent of total enrollment that are Nonresident Alien (DRVEF2020),non_res,NULL,2020,21,409
+Percent of total enrollment that are two or more races (DRVEF2020),two_more,1,2020,2,39
+Percent of total enrollment that are women (DRVEF2020),women,NULL,2020,58,1130
+Percent of total enrollment that are American Indian or Alaska Native (DRVEF2019),indigenous,1,2019,1,20
+Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2019),aapi,1,2019,11,215
+Percent of total enrollment that are Asian (DRVEF2019),asian,0,2019,11,215
+Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2019),hawaii_pi,1,2019,1,20
+Percent of total enrollment that are Black or African American (DRVEF2019),black,1,2019,7,137
+Percent of total enrollment that are Hispanic/Latino (DRVEF2019),latino,1,2019,16,312
+Percent of total enrollment that are White (DRVEF2019),white,0,2019,32,624
+Percent of total enrollment that are Race/ethnicity unknown (DRVEF2019),unk,NULL,2019,9,176
+Percent of total enrollment that are Nonresident Alien (DRVEF2019),non_res,NULL,2019,21,410
+Percent of total enrollment that are two or more races (DRVEF2019),two_more,1,2019,3,59
+Percent of total enrollment that are women (DRVEF2019),women,NULL,2019,58,1131
+Percent of total enrollment that are American Indian or Alaska Native (DRVEF2018),indigenous,1,2018,1,19
+Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander (DRVEF2018),aapi,1,2018,10,188
+Percent of total enrollment that are Asian (DRVEF2018),asian,0,2018,9,169
+Percent of total enrollment that are Native Hawaiian or Other Pacific Islander (DRVEF2018),hawaii_pi,1,2018,1,19
+Percent of total enrollment that are Black or African American (DRVEF2018),black,1,2018,7,132
+Percent of total enrollment that are Hispanic/Latino (DRVEF2018),latino,1,2018,14,263
+Percent of total enrollment that are White (DRVEF2018),white,0,2018,34,640
+Percent of total enrollment that are Race/ethnicity unknown (DRVEF2018),unk,NULL,2018,9,169
+Percent of total enrollment that are Nonresident Alien (DRVEF2018),non_res,NULL,2018,21,395
+Percent of total enrollment that are two or more races (DRVEF2018),two_more,1,2018,3,56
+Percent of total enrollment that are women (DRVEF2018),women,NULL,2018,57,1073
